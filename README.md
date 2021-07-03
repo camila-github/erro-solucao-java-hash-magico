@@ -20,12 +20,18 @@ DDD
 então cada caractere deverá ser computado como segue:
 
 2 = 2 + 0 + 0 : 'C' no elemento 0 posição 0
+
 2 = 1 + 0 + 1 : 'B' no elemento 0 posição 1
+
 2 = 0 + 0 + 2 : 'A' no elemento 0 posição 2
+
 4 = 3 + 1 + 0 : 'D' no elemento 1 posição 0
+
 5 = 3 + 1 + 1 : 'D' no elemento 1 posição 1
+
 6 = 3 + 1 + 2 : 'D' no elemento 1 posição 2
-O cálculo final de hash será 2+2+2+4+5+6 = 21.
+
+O cálculo final de hash será 2 + 2 + 2 + 4 + 5 + 6 = 21.
 
 #### Entrada: 
 
